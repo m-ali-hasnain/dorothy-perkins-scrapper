@@ -1,4 +1,4 @@
-# Brandymelville-Scrapper
+# Dorothyperkins-Scrapper
 
 # Description
 
@@ -11,4 +11,4 @@
 - clone the project using: `git clone <git@github.com:m-ali-hasnain/dorothy-perkins-scrapper.git>`
 - install requirements: `pip install requirements.txt`
 - or you can also configure virtual env for installing packages
-- run command: `scrapy crawl brandymelville -o output.json`
+- run command: `scrapy crawl dorothyperkins -o output.json`
